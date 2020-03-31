@@ -2,8 +2,7 @@
 
 ini adalah website yang khusus menginfokan info yang sedang tranding di masyarakat, bukan untuk merugikan pihak2 tertentu, tapi untuk mencoba berkontribusi dalam situasi tersebut.
 
-## Hubungi pengembang
-[via wa](http://wa.me/6283850187425)
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 <script>
@@ -102,3 +101,7 @@ text-shadow: 2px 2px 4px #000000;
 <div id="meninggal" class="angka"></div>
 <span class="detail">Meninggal</span>
 </div>
+
+
+## Hubungi pengembang
+[via wa](http://wa.me/6283850187425)
