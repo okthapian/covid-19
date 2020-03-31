@@ -29,6 +29,25 @@ $("#date").html(d.getDate() + " " + month[d.getMonth()] + " " + d.getFullYear())
     }});
 });
 </script>
+<div class="datax">
+<div class="title">
+<h1>covid-19 indonesia : <span id="date"></span></h1>
+</div>
+<div id="show1" class="positif">
+<div id="positif" class="angka">
+
+</div>
+<span class="detail">Positif</span>
+</div>
+<div id="show2" class="sembuh">
+<div id="sembuh" class="angka"></div>
+<span class="detail">Sembuh</span>
+</div>
+<div id="show3" class="meninggal">
+<div id="meninggal" class="angka"></div>
+<span class="detail">Meninggal</span>
+</div>
+</div>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
