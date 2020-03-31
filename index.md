@@ -1,8 +1,7 @@
 ## OKTHAPIANGROUP
 
 ini adalah website yang khusus menginfokan info yang sedang tranding di masyarakat, bukan untuk merugikan pihak2 tertentu, tapi untuk mencoba berkontribusi dalam situasi tersebut.
-import json
- 
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 <script>
@@ -30,7 +29,7 @@ $("#date").html(d.getDate() + " " + month[d.getMonth()] + " " + d.getFullYear())
     }});
 });
 </script>
-
+<hr><hr>
 div class="datax">
 <div class="title">
 <h1>covid-19 indonesia : <span id="date"></span></h1>
