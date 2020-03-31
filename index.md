@@ -101,6 +101,6 @@ text-shadow: 2px 2px 4px #000000;
 <span class="detail">Meninggal</span>
 </div>
 
-### Hubungi pengembang
+## Hubungi pengembang
 
 [via wa](http://wa.me/6283850187425)
