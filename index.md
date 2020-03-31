@@ -43,6 +43,43 @@ $("#date").html(d.getDate() + " " + month[d.getMonth()] + " " + d.getFullYear())
 		    float: left;
 		    text-align: center;
 		}
+	#show1 .angka {
+    font-size: 2em;
+    font-weight: 700;
+text-shadow: 2px 2px 4px #000000;
+}
+#show2 .angka {
+    font-size: 2em;
+    font-weight: 700;
+text-shadow: 2px 2px 4px #000000;
+}
+#show3 .angka {
+    font-size: 2em;
+    font-weight: 700;
+text-shadow: 2px 2px 4px #000000;
+}
+	#show1 .detail {
+    background: white;
+    width: 100%;
+    display: block;
+    color: black;
+    box-shadow: 0px -2px 4px 1px #66c7ff;
+}
+#show2 .detail {
+    background: white;
+    width: 100%;
+    display: block;
+    color: black;
+    box-shadow: 0px -2px 4px 1px #66c7ff;
+}
+#show3 .detail {
+    background: white;
+    width: 100%;
+    display: block;
+    color: black;
+    box-shadow: 0px -2px 4px 1px #66c7ff;
+}
+
 	</style>
 div class="datax">
 <div class="title">
