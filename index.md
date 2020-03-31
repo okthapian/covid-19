@@ -29,7 +29,7 @@ $("#date").html(d.getDate() + " " + month[d.getMonth()] + " " + d.getFullYear())
     }});
 });
 </script>
-<hr><hr>
+
 div class="datax">
 <div class="title">
 <h1>covid-19 indonesia : <span id="date"></span></h1>
