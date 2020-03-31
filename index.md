@@ -100,7 +100,7 @@ text-shadow: 2px 2px 4px #000000;
 <div id="meninggal" class="angka"></div>
 <span class="detail">Meninggal</span>
 </div>
-
+<hr></hr>
 ## Hubungi pengembang
 
 [via wa](http://wa.me/6283850187425)
