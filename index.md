@@ -1,7 +1,7 @@
 ## OKTHAPIANGROUP
 
 ini adalah website yang khusus menginfokan info yang sedang tranding di masyarakat, bukan untuk merugikan pihak2 tertentu, tapi untuk mencoba berkontribusi dalam situasi tersebut.
-
+data covid indonesia [https://api.kawalcorona.com/indonesia]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
