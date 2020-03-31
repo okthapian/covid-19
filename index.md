@@ -81,7 +81,7 @@ text-shadow: 2px 2px 4px #000000;
 }
 
 	</style>
-	<body>
+
 <div class="datax">
 <div class="title">
 <h1>covid-19 indonesia : <span id="date"></span></h1>
@@ -101,7 +101,6 @@ text-shadow: 2px 2px 4px #000000;
 <span class="detail">Meninggal</span>
 </div>
 
-</body>
 ### Hubungi pengembang
 
 [via wa](http://wa.me/6283850187425)
