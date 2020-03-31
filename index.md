@@ -1,8 +1,6 @@
 ## OKTHAPIANGROUP
 
-You can use the [editor on GitHub](https://github.com/okthapian/covid-19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ini adalah website yang khusus menginfokan info yang sedang tranding di masyarakat, bukan untuk merugikan pihak2 tertentu, tapi untuk mencoba berkontribusi dalam situasi tersebut.
 
 ### Markdown
 
