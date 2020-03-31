@@ -48,7 +48,6 @@ div class="datax">
 <div id="meninggal" class="angka"></div>
 <span class="detail">Meninggal</span>
 </div>
-</div>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
