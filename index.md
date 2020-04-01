@@ -2,6 +2,8 @@
 
 ini adalah website yang khusus menginfokan info yang sedang tranding di masyarakat, bukan untuk merugikan pihak2 tertentu, tapi untuk mencoba berkontribusi dalam situasi tersebut.
 
+## Hubungi pengembang
+[via wa](http://wa.me/6283850187425)
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
@@ -103,5 +105,4 @@ text-shadow: 2px 2px 4px #000000;
 </div>
 
 
-## Hubungi pengembang
-[via wa](http://wa.me/6283850187425)
+
