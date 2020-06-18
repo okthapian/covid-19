@@ -5,7 +5,9 @@ Informasi ini khusus untuk memantau perkembangan informasi terupdate mengenai Co
 dengan bahasa pemrogaman php, js, dan html serta sedikit bumbu Css,
 
 
-Untuk project lainnya/ ingin mengedit hubungi saya terlebih dahulu
+Untuk project lainnya/ ingin mengedit hubungi saya terlebih dahulu :
+
 Twitter: https://twitter.com/iqbal_okthapian
+
 linkedin :www.linkedin.com/in/iqbal-okthapian-8b25b1195/
 
